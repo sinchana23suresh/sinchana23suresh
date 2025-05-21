@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4998&pause=990&color=CFCE2C&vCenter=true&width=435&lines=Hey+there!+I+am+Sinchana+Suresh)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-<h3 align="center">CSE Student</h3><br><br>🔭 I’m currently working on *Q-ro*<br><br>🌱 I’m currently learning *JavaScript, Figma, Node.js, React*<br><br>👨‍💻 All of my projects are available at [https://github.com/sinchana23suresh](https://github.com/sinchana23suresh)<br><br>💬 Ask me about *Python, HTML, Java, Visual B, C++, C*<br><br>📫 How to reach me *sinchana23suresh@gmail.com*<br><br>⚡ Fun fact *trying to stay afloat in this sea full of dreams:)*
+<h3 align="center">CSE Student|Passionate about technology, innovation, and turning ideas into reality🎯|Driven by curiosity and a strong desire to learn, build, and grow every day🪢|Always exploring new concepts, tools, and frameworks—whether it's coding a fun side project, diving into a new programming language, or planning out solutions to real-world problems📍|Aspire to be the very best at what I do and contribute to projects that make a difference⚓</h3><br><br>🔭 I’m currently working on *Q-ro*<br><br>🌱 I’m currently learning *JavaScript, Figma, Node.js, React*<br><br>👨‍💻 All of my projects are available at [https://github.com/sinchana23suresh](https://github.com/sinchana23suresh)<br><br>💬 Ask me about *Python, HTML, Java, Visual B, C++, C*<br><br>📫 How to reach me *sinchana23suresh@gmail.com*<br><br>⚡ Fun fact *trying to stay afloat in this sea full of dreams:)*
 
 
 # 💻 Tech Stack:
